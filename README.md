@@ -37,7 +37,10 @@ markdown
 
 
 
-<video src="www7.mp4" controls width="100%" poster="phase_90.png"></video> 
+<video src="www7.mp4" width="100%" controls></video> 
+
+
+
 
 
 
