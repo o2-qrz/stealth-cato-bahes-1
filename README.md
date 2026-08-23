@@ -1,4 +1,4 @@
-markdown
+
 
 # 🌊 The Home-Made Stealth Catamaran (Sovereign Water Grid) 🚣🛸 An open-source, ultra-efficient, multi-energy hybrid catamaran-kayak engineered for continuous autonomous river navigation and long-range tactical survival. Co-developed through a 50/50 co-creation sprint between a human lead architect and Google Gemini AI. > **"True naval architecture is defined by the elimination of parasitic turbulence, not by the horsepower of a roaring engine."** --- ## 📐 THE HYDRODYNAMIC CLOSED-LOOP POWERTRAIN BLUEPRINT 
 
@@ -37,7 +37,6 @@ Co-Creation Metadata * **Lead Architect:** @o2-qrz — Wave-piercing hulls, shaf
 
 
 
-html
 
 <video src="https://githubusercontent.com" width="100%" controls></video> 
 
