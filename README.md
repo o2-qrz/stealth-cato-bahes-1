@@ -39,11 +39,12 @@ Co-Creation Metadata * **Lead Architect:** @o2-qrz — Wave-piercing hulls, shaf
 
 
 
-<video src="https://githubusercontent.com" width="100%" controls></video> 
 
 
 
 
+
+--- ### 🎬 [Click here to watch the project video](https://github.com) --- 
 
 
 
